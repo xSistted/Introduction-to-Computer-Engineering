@@ -1,2 +1,4 @@
 # Introduction-to-Computer-Engineering
-All of thing that I can keep about ICE on first-half of year 1 at CE-KMITL.
+
+This repository is about info and activity of ICE Course.  
+I hope my expirience will be useful for anyone who attend to read.
