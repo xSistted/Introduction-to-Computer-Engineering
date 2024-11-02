@@ -23,7 +23,7 @@
 อุปกรณ์สามารถเปลี่ยนแปลงได้ตามความเหมาะสม
 
 | # | Name | Quantities|
-|---|---|---|
+|---|---|:---:|
 | 1 | Arduino Uno R3 + USB Connector | 1 |
 | 2 | Breadboard | 1 |
 | 3 | Jumper Wire | A lot |
