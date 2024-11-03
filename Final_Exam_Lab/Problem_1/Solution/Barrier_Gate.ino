@@ -32,6 +32,7 @@ void setup() {
 }
 
 void loop() {
+  devices = lc.getDeviceCount();
   if(digitalRead(gate_button) == 1){
     digitalWrite(gate_Led, 0);
     while(digitalRead(gate_button) == 1){
@@ -60,7 +61,6 @@ void loop() {
 }
 
 void display_Dot(int number){
-  devices = lc.getDeviceCount();
   for(int row = 0; row < number; row++){
     for(int column = 0; column < 8; column++){
       lc.setLed(0, row, column, true);
@@ -72,7 +72,6 @@ void display_Dot(int number){
 }
 
 void blink_Dot(){
-  devices = lc.getDeviceCount();
   for(int row = 0; row < 8; row++){
     for(int column = 0; column < 8; column++){
       lc.setLed(0, row, column, false);
