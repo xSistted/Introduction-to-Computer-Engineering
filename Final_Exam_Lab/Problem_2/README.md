@@ -27,7 +27,7 @@
 | 1 | Arduino Uno R3 + USB Connector | 1 |
 | 2 | Breadboard | 1 |
 | 3 | Jumper Wire | A lot |
-| 4 | 220 Ohm Resistor | 2 |
+| 4 | 220 Ohm Resistor | 10 |
 | 5 | 2k Ohm Resistor | 2 |
 | 6 | 7 Segment | 1 |
 | 7 | LED (any color) | 2 |
