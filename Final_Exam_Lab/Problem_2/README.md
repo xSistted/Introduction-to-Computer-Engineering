@@ -29,7 +29,7 @@
 | 3 | Jumper Wire | A lot |
 | 4 | 220 Ohm Resistor | 2 |
 | 5 | 2k Ohm Resistor | 2 |
-| 6 | 7_Segment | 1 |
+| 6 | 7 Segment | 1 |
 | 7 | LED (any color) | 2 |
 | 8 | Push_Button | 2 |
 
